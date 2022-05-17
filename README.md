@@ -1,2 +1,4 @@
 # cypress-local
-npx cypress opne
+```
+npx cypress open
+```
