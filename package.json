@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@slack/webhook": "^6.1.0"
+  }
+}
